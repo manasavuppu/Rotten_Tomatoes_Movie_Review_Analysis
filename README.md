@@ -17,6 +17,9 @@ We use two publicly available datasets from Kaggle:
 
 ---
 
+## **Additional Files & Resources**
+Due to file size constraints, all project datasets, notebooks, and outputs can be accessed through this [Google Drive folder](https://drive.google.com/drive/folders/1Y060fW1jof9RHWECeU3vU7EX1rYtEcsz?usp=drive_link).
+
 ## **Project Objectives**
 1. **Data Exploration and Preprocessing**:  
    Perform data cleaning, feature engineering, and merging datasets.
